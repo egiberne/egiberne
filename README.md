@@ -1,7 +1,7 @@
 # Hi there, I'm Emerick! 👋
 
 
-## 🚀 About Me
+## 🚀 About
 I'm an IT Guy.
 <br>
 Have fun when learning, coding, and teamworking.
