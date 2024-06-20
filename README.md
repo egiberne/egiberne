@@ -8,7 +8,7 @@ Have fun when learning, coding, and teamworking.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PowerShell ...
+ Markdown, HTML, CSS, Javascript, PowerShell.
 
 
 ## 🔗 Links
