@@ -2,9 +2,8 @@
 
 
 ## 🚀 About
-I'm an IT Guy.
-<br>
-Have fun when learning, coding, and teamworking.
+I'm an IT Guy Whick Keep it Simple and Solid. 
+Let's Keep Calm and Code On.
 
 
 ## 🛠 Skills
