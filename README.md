@@ -1,8 +1,9 @@
 # Hi there, I'm Emerick! 👋
 
 
-## 🚀 About
+## 🧑‍💻 About
 I'm an IT Guy Whick Keep it Simple and Solid. 
+</br>
 Let's Keep Calm and Code On.
 
 
