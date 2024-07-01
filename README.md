@@ -9,7 +9,7 @@ I'm an IT Guy Whick Keep it Simple and Solid.
 Let's Keep Calm and Code On.
 
 
-## 🛠 Skills
+## 🛠 Learning
  Markdown, HTML, CSS, Javascript, PowerShell.
 
 
