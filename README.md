@@ -3,10 +3,12 @@
 # Hi there, I'm Emerick! 👋
 
 
-## 🧑‍💻 About
-I'm an IT Guy Whick Keep it Simple and Solid. 
+## 🧑‍💻 Listing
+I'm an Microsoft 365 Adminstrator
 </br>
-Let's Keep Calm and Code On.
+- Former Deployment Specialist 
+- Former Desktop Engineer
+- Former Application Packager
 
 
 ## 🛠 Learning
