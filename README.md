@@ -4,7 +4,7 @@
 
 
 ## 🧑‍💻 Listing
-I'm an Microsoft 365 Adminstrator
+I'm an IT Analyst in charge of Microsoft 365 Adminstration
 </br>
 - Former Deployment Specialist 
 - Former Desktop Engineer
