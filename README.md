@@ -4,15 +4,16 @@
 
 
 ## 🧑‍💻 Listing
-I'm an IT Analyst in charge of Microsoft 365 Adminstration
+IT Analyst in charge of Microsoft 365 Administration
 </br>
 - Former Deployment Specialist 
 - Former Desktop Engineer
 - Former Application Packager
-
+  
+Driven by technical experimentation.
 
 ## 🛠 Learning
- Markdown, HTML, CSS, Javascript, PowerShell.
+ PowerShell, Markdown, HTML, CSS, Javascript.
 
 
 ## 🔗 Links
