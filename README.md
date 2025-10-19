@@ -4,7 +4,7 @@
 
 
 ## 🧑‍💻 Listing
-IT Analyst in charge of Microsoft 365 Administration
+IT Analyst in charge of Microsoft 365 Apps Administration
 </br>
 - Former Deployment Specialist 
 - Former Desktop Engineer
