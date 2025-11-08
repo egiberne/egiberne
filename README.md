@@ -9,11 +9,9 @@ IT Analyst in charge of Microsoft 365 Apps Administration
 - Former Deployment Specialist 
 - Former Desktop Engineer
 - Former Application Packager
-  
-Driven by technical experimentation.
 
 ## 🛠 Learning
- PowerShell, Markdown, HTML, CSS, Javascript.
+ PowerShell, Csharp, Markdown, HTML, CSS, Javascript.
 
 
 ## 🔗 Links
