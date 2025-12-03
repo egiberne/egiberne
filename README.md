@@ -2,17 +2,17 @@
 
 # Hi there, I'm Emerick! 👋
 
-
-## 🧑‍💻 Listing
-IT Analyst in charge of Microsoft 365 Apps Administration
-</br>
+## 🧑‍💻 Experience
+- IT Analyst in charge of Microsoft 365 Apps
 - Former Deployment Specialist 
-- Former Desktop Engineer
+- Former Desktop Support Specialist
 - Former Application Packager
 
-## 🛠 Learning
- PowerShell, Csharp, Markdown, HTML, CSS, Javascript.
+## 🧠 Learning
+ Markdown, HTML, CSS, Javascript.
 
+## 🛠 Using 
+PowerShell
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.egiberne.me/)
