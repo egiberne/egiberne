@@ -1,18 +1,16 @@
 ![Header](header.png)
 
 # Hi there, I'm Emerick! 👋
+Microsoft 365 IT Analyst who likes Web Development.
 
 ## 🧑‍💻 Experience
-- IT Analyst in charge of Microsoft 365 Apps
+
 - Former Deployment Specialist 
 - Former Desktop Support Specialist
 - Former Application Packager
 
 ## 🧠 Learning
- Markdown, HTML, CSS, Javascript.
-
-## 🛠 Using 
-PowerShell
+ PowerShell, Markdown, HTML, CSS, Javascript
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.egiberne.me/)
