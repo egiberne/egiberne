@@ -1,13 +1,17 @@
 ![Header](header.png)
 
 # Hi there, I'm Emerick! 👋
-Microsoft 365 IT Analyst who likes Web Development.
+Microsoft 365 Analyst who likes development.
+
+- 🔭 I’m currently working on my own projects in PowerShell to enhance my knowledge
+- 🌱 I’m currently learning Front-end Web Developpement to implement nice interfaces
+- 👯 I’m looking to collaborate on Open source project to strengthen my wed dev skill
 
 ## 🧑‍💻 Experience
 
-- Former Deployment Specialist 
-- Former Desktop Support Specialist
-- Former Application Packager
+- Former Deployment Analyst
+- Former Desktop Support Analyst
+- Former Software Packager
 
 ## 🧠 Learning
  PowerShell, Markdown, HTML, CSS, Javascript
@@ -22,16 +26,10 @@ Microsoft 365 IT Analyst who likes Web Development.
 
 
 <!--
-**egiberne/egiberne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**egiberne/egiberne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
