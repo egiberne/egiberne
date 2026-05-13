@@ -1,7 +1,7 @@
 ![Header](header.png)
 
 # Hi there, I'm Emerick! 👋
-Microsoft 365 Analyst who likes development.
+Microsoft 365 Analyst who is learning development.
 
 - 🔭 I’m currently working on my own projects in PowerShell to enhance my knowledge
 - 🌱 I’m currently learning Front-end Web Developpement to implement nice interfaces
